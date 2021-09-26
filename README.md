@@ -10,7 +10,7 @@ Is it possible to predict defective products before the process or determine whi
 
 **EV** represents Expected Value and Expected Value equals to difference between Expected Benefit minus Expected Loss
 
-![](images/download25.png)
+![](images/download27.png)
 
 So according to this formula the gap between the total cost of the defective product before the project and after the project must be higher than the cost of the project in order to be profitable. Also models used to analyse or predict outcomes should not have high false positive rates.
 
