@@ -6,13 +6,11 @@ Is it possible to predict defective products before the process or determine whi
 ### Expected Value Framework
 
 
-**$${EV} = {EB} - {EL}$$**
+![](images/download26.png)
 
 **EV** represents Expected Value and Expected Value equals to difference between Expected Benefit minus Expected Loss
 
-$$
-EV =\frac{ {n_{1}} + {n_{2}} }{2} \mathcal{\left(\frac{\sum\limits _{i}^{n_{1}} c_{b}}{n_{1}} \ - \frac{\sum\limits _{i}^{n_{2}} c_{a}}{n_{2}}\right) \ -\ f(c) - P(f_{p}) }
-$$
+![](images/download25.png)
 
 EV represents the expected value and ${f( c)}$ is the cost function of the project. $n$ is the total number of products and $c_{a}$ and $c_{b}$ are the cost of the defective product respectively after the project and before the project. $$ P(f_{p})$$ represents the false positives from the model prediction. If so many false positives are predicted by model, it could be considered as an extra cost for models.
 
